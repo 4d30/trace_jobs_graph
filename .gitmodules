@@ -7,3 +7,6 @@
 [submodule "rels"]
 	path = rels
 	url = git@github.com:4d30/rels.git
+[submodule "trace_attrs/attrs"]
+	path = trace_attrs/attrs
+	url = git@github.com:4d30/attrs.git
